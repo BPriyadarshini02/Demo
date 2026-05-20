@@ -2,3 +2,4 @@ This is my first project in git.
 This is line 2
 This is line 3
 I forgot to pull
+This is line 4
